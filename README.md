@@ -94,38 +94,13 @@ It is free and open source software - anyone can use it to make their website lo
 * Swedish by [momeenme](https://github.com/momeenme)
 * Slovak by [jjuris](https://github.com/jjuris)
 
-## Tests performed
+## Credits
 
-* W3C Markup Validation: [Correct validation](https://validator.w3.org/nu/?doc=https%3A%2F%2Fliebling.eduardogomez.io%2F)
-* Ghost GScan: [100/100 points](https://gscan.ghost.org/)
-* GTmetrix PageSpeed Score: **A (97%)**
-* PageSpeed Insights: **94/100** (mobile) **99/100** (desktop)
-* Pingdom Performance Grade: **A 91**
-
-## Theme development
-
-Thanks to [D3473R](https://github.com/D3473R) 💪🏼 for creating a development environment with Docker. From now on you can work on this theme without installing a Ghost instance on your local machine. With two commands you have an instant development setup and you can build the theme for production.
-
-Please take a look to this page to see how it works: https://github.com/eddiesigner/liebling/wiki/Theme-development-with-Docker
-
-## Help and Support
-
-If you have any questions or troubles with this product, please feel free to open an issue [here](https://github.com/eddiesigner/liebling/issues).
-
-## Contributing
-
-Contributions are very welcome. First, please read the [Pull Request Guidelines](https://github.com/eddiesigner/liebling/wiki/Pull-Request-Guidelines) on the wiki.
-
-## Related
-
-* [Galerie](https://eddiesigner.gumroad.com/l/KgroF) - Modern and versatile theme that stands out for its sleek design, it's incredibly fast, it offers a great user experience and it has many options to customise it.
-
-* [Firma](https://gum.co/ZXLha) - Ghost theme that can be used by startups to large companies to publish any kind of articles related to their business. It stands out for its clean design and is able to adapt to any company's identity.
-
-* [Weiss Pro](https://gum.co/pzvDn) - Modern and beautiful Ghost theme ready to make your content shine.
+PureProcess is a fork of the excellent [Liebling](https://github.com/eddiesigner/liebling) theme. 
 
 ## License
 
+Copyright (c) 2022-present ProcessMedic. Changes to original source under MIT License.(https://github.com/ProcessMedic/PureProcess/blob/master/LICENSE)
 Copyright (c) 2019-present Eduardo Gómez. Released under the [MIT license](https://github.com/eddiesigner/liebling/blob/master/LICENSE).
 
 ## Credits
