@@ -1,6 +1,6 @@
 # PureProcess
 
-**PureProcess** is an elegant and clean theme for the Ghost website platform. 
+**PureProcess** is an elegant and clean theme for the Ghost website platform, used by the [ProcessMedic](https://processmedic.com) team for our website. 
 
 It is free and open source software - anyone can use it to make their website look amazing. 
 
